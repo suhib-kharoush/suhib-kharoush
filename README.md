@@ -35,6 +35,6 @@
 
 ---
 
-# [twitter]: https://twitter.com/KharwashSuhaib
-# [instagram]: https://www.instagram.com/suhaib.kharwash/
-# [linkedin]: https://www.linkedin.com/in/suhib-kharoush-017401197/
+ [twitter]: https://twitter.com/KharwashSuhaib
+ [instagram]: https://www.instagram.com/suhaib.kharwash/
+ [linkedin]: https://www.linkedin.com/in/suhib-kharoush-017401197/
