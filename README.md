@@ -5,7 +5,7 @@
 ## I'm an Engineering Manager working with [AtliQ](https://atliq.com) and contributing to the youtube channel [Codebasics](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ) 
 
 - 💻 I’m currently studying Python (ML+DS Stack), VueJS, NodeJS.
-- 📚 I’m currently learning everything about Docker,Javascript Frameworks. 
+<!-- - 📚 I’m currently learning everything about Docker,Javascript Frameworks.  -->
 - 💪🏼 Goals: Keep building solutions that help businesses thrive better, learn more technologies and help people excel at it too.
 
 ---
