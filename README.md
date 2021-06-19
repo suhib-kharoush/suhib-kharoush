@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm an Engineering Manager working with [AtliQ](https://atliq.com) and contributing to the youtube channel [Codebasics](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ) 
+## I'm a mechanical design engineer and learning software development. 
 
 - 💻 I’m currently studying Python (ML+DS Stack), VueJS, NodeJS.
 <!-- - 📚 I’m currently learning everything about Docker,Javascript Frameworks.  -->
